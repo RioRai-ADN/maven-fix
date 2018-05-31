@@ -1,0 +1,11 @@
+dao\ProductDao.class
+entity\User.class
+dao\ProviderDao.class
+util\HibernateUtil.class
+entity\Product.class
+entity\Provider.class
+dao\CustomerService.class
+controller\HomepageController.class
+dao\UserDao.class
+entity\Customer.class
+dao\CategoryDao.class
